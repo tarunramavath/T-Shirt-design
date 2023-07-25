@@ -3,7 +3,7 @@ Welcome to the T-Shirt Design project! This project allows you to design your ow
 #  Technologies Used
 HTML5
 
-CSS3
+CSS
 
 Bootstrap5
 
